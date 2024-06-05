@@ -2,7 +2,7 @@
 Sales Insights - Handling Data using Tableau, SQL and Weka📈📝
 </h1>
 
-**A repository containing sales Data on Data Analysis and Data Visualization is performed - A Data Analysis Project performed on MySQL and Tableau for fulfilment of course:** `18CSE355T - Data Mining and Analytics`
+**A repository containing sales Data on Data Analysis and Data Visualization is performed - A Data Analysis Project performed on MySQL and Tableau for fulfilment of course:** 
 
 ### About the Project 👨‍💻
 
